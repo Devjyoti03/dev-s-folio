@@ -318,12 +318,12 @@ export const Hero: React.FC = () => {
               <motion.div 
                 className="flex gap-4 mb-12"
                 variants={itemVariants}
-              >
+              > 
                 <Button variant="primary" size="lg">
-                  View My Work
+                  <a href='#projects'>View My Work</a>
                 </Button>
                 <Button variant="outline" size="lg">
-                  Get In Touch
+                  <a href='#contact'>Get in Touch</a>
                 </Button>
               </motion.div>
             </div>
