@@ -57,7 +57,7 @@ const projects: Project[] = [
     image: "https://i.ytimg.com/vi/Zu5byEMTVbc/maxresdefault.jpg",
     tags: ["React", "MUI", "TailwindCSS", "TypeScript", "Design"],
     links: {
-      demo: "https://tec-hetc-25.vercel.app/",
+      demo: "https://www.hetc.ac.in/TECHetc2K25",
       code: "https://github.com/debjitmitra000/tecHETC25"
     }
   },
@@ -127,15 +127,26 @@ const projects: Project[] = [
       code: "https://github.com/Devjyoti03/Movie_Recommendor"
     }
   },
-    {
+  //   {
+  //   id: 11,
+  //   title: "Meet App",
+  //   description: "Basic meeting scheduling app with user and event management capabilities.",
+  //   image: "https://i.gadgets360cdn.com/large/iStock-1213470242-1200-1588586597057.jpg",
+  //   tags: ["React", "Node.js", "MongoDB"],
+  //   links: {
+  //     demo: "https://github.com/Devjyoti03/meet_app",
+  //     code: "https://github.com/Devjyoti03/meet_app"
+  //   }
+  // },
+  {
     id: 11,
-    title: "Meet App",
-    description: "Basic meeting scheduling app with user and event management capabilities.",
-    image: "https://i.gadgets360cdn.com/large/iStock-1213470242-1200-1588586597057.jpg",
-    tags: ["React", "Node.js", "MongoDB"],
+    title: "Dash",
+    description: "Designing a website for a startup providing Marketing, Development and Security Services for both Web2 and Web3 company.",
+    image: "https://brandlume.com/wp-content/uploads/2022/10/cyber-security-concept-login-user-identification-information-security-encryption-secure-internet-access-cybersecurity-secure-access-users-personal-information.jpg",
+    tags: ["Figma", "React.js", "Design", "Framer"],
     links: {
-      demo: "https://github.com/Devjyoti03/meet_app",
-      code: "https://github.com/Devjyoti03/meet_app"
+      demo: "https://dash-hq.vercel.app",
+      code: "https://github.com/Devjyoti03/dash"
     }
   },
       {
@@ -145,7 +156,7 @@ const projects: Project[] = [
     image: "https://inc42.com/wp-content/uploads/2023/03/BookMyShow-FY22_1200.jpg",
     tags: ["React", "Flask", "Bootstrap", "MongoDB", 'Design'],
     links: {
-      demo: "https://github.com/Devjyoti03/BookMyShow",
+      demo: "https://bookourshow.onrender.com",
       code: "https://github.com/Devjyoti03/BookMyShow"
     }
   },
